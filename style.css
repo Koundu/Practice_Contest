@@ -1,0 +1,28 @@
+.body{
+display: block;
+text-align: left;
+color: goldenrod;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight: 900;
+background-color: bisque;
+}
+.para{
+    display: block;
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.heading{
+    font-size: 25px;
+    color: black;
+}
+.img{
+    width: 1080px;
+    height: 720px;
+    border-radius: 30px;
+    border-color: greenyellow;
+    border-style: solid;
+    
+}
